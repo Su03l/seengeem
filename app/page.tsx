@@ -81,11 +81,7 @@ export default function HomePage() {
                     </div>
 
                     <div className="border-t border-gray-200 pt-4 animate-fade-in-up delay-400">
-                      <p className="text-gray-600 text-sm mb-3 flex items-center gap-2">
-                        صُنع بـ 
-                        <Heart className="w-4 h-4 text-red-500 animate-heartbeat" />
-                        في المملكة العربية السعودية
-                      </p>
+                      
                       
                       <a 
                         href="https://twitter.com/su05l" 
