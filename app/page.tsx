@@ -76,7 +76,7 @@ export default function HomePage() {
                       </div>
                       <div>
                         <p className="font-bold text-gray-900">سليمان</p>
-                        <p className="text-sm text-gray-600">مطور واجهات المستخدم</p>
+                        <p className="text-sm text-gray-600">Software engineering | web development</p>
                       </div>
                     </div>
 
